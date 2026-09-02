@@ -1,8 +1,8 @@
-# 8-Bit Gate-Level ALU Design
+# 4-Bit Gate-Level ALU Design
 
 ## Overview
 
-This design presents an 8-bit Arithmetic Logic Unit (ALU) implemented at gate level using basic logic gates.
+This design presents an 4-bit Arithmetic Logic Unit (ALU) implemented at gate level using basic logic gates.
 
 The design includes both arithmetic and logical operations selected through control inputs. A Verilog implementation and a separate testbench are also included for functional verification.
 
@@ -26,7 +26,7 @@ The ALU can be used as one of the main processing units in the design of a basic
 
 ## Features
 
-- 8-bit ALU architecture
+- 4-bit ALU architecture
 - Gate-level implementation
 - Basic logic gate design
 - Arithmetic operations
@@ -55,4 +55,4 @@ A Verilog HDL version of the ALU is also included along with a testbench for ver
 
 ## Design Preview
 
-![8-Bit Gate-Level ALU Design](Documentation/8bit-ALU-Gate-Level-Design.png)
+![4-Bit Gate-Level ALU Design](4bit_ALU.png)
