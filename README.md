@@ -2,7 +2,7 @@
 
 ## Overview
 
-This design presents an 4-bit Arithmetic Logic Unit (ALU) implemented at gate level using basic logic gates.
+This design presents a 4-bit Arithmetic Logic Unit (ALU) implemented at gate level using basic logic gates.
 
 The design includes both arithmetic and logical operations selected through control inputs. A Verilog implementation and a separate testbench are also included for functional verification.
 
