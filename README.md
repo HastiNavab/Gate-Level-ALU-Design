@@ -50,9 +50,9 @@ A Verilog HDL version of the ALU is also included along with a testbench for ver
 
 ## Repository Structure
 
-- `Digital` - Digital circuit design file
-- `Verilog` - Verilog source code and testbench
-
+- `Digital_Design` - Gate-level circuit design file
+- `Verilog_HDL` - Verilog source code and testbench
+- 
 ## Design Preview
 
 ![4-Bit Gate-Level ALU Design](4bit_ALU.png)
